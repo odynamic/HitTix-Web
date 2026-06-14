@@ -34,20 +34,32 @@ Aplikasi ini dikembangkan untuk membantu proses pengelolaan event, mulai dari pu
 
 ## Screenshots
 
-### Home Page
-![Home Page](screenshots/home-page.png)
+### Homepage
+![Homepage](screenshots/homepage.png)
 
-### Login
-![Login](screenshots/login.png)
+### Explore Events
+![Explore Events](screenshots/jelajah.png)
 
-### Dashboard EO
+### Join as Event Organizer
+![Join EO](screenshots/gabung-eo.png)
+
+### User Registration
+![Register](screenshots/register.png)
+
+### Event Organizer Dashboard
 ![Dashboard EO](screenshots/dashboard-eo.png)
 
-### Event Management
-![Event Management](screenshots/event-management.png)
+### Create Event
+![Create Event](screenshots/eo-add-event.png)
 
-### Event Detail
-![Event Detail](screenshots/event-detail.png)
+### Edit Profile
+![Edit Profile](screenshots/edit-profile.png)
+
+### About Page
+![About](screenshots/about.png)
+
+### Contact Page
+![Contact](screenshots/contact.png)
 
 ## Installation
 
