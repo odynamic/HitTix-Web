@@ -35,7 +35,7 @@ Aplikasi ini dikembangkan untuk membantu proses pengelolaan event, mulai dari pu
 ## Screenshots
 
 ### Homepage
-![Homepage](screenshots/homepage.png)
+![Homepage](screenshots/hompage.png)
 
 ### Explore Events
 ![Explore Events](screenshots/jelajah.png)
