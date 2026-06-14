@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* tambahan custom kamu */
+.text-pink {
+    color: #ff69b4 !important;
+}
+
+.btn-pink {
+    background-color: #ff69b4;
+    border-color: #ff69b4;
+}
+
+.btn-pink:hover {
+    background-color: #e754a3;
+    border-color: #e754a3;
+    color: white;
+}
